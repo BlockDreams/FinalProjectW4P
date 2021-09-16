@@ -1,0 +1,35 @@
+body{
+    background-color: #ede8ca;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin-right: 20px;
+    display: inline-block;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background: black;
+    text-align: center;
+    color: white;
+}
+h1{
+    margin-left: 60px;
+    font-size: 32px;
+}
+.Introduction{
+    font-size: 22px;
+    margin-left: 60px;
+}
+.Burger{
+    border-style: solid;
+    padding-left: 120px;
+    background: black;
+}
+.Copyright{
+    font-size: 22px;
+}
